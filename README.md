@@ -1,17 +1,17 @@
-<!-- Header: Twinkling Starfield Design -->
+<!-- Header: Ultra-Premium Twinkling & Waving Design -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=300&section=header&text=Vivek%20Patel&fontSize=90&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20|%20Innovation%20Driven&descAlignY=51&descAlign=50" />
 </p>
 
-<!-- Dynamic Typing Effect -->
+<!-- Elite Typing Animation -->
 <p align="center">
   <a href="https://github.com/Vivekpatel1234a">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=30&pause=1000&color=4169E1&center=true&vCenter=true&width=600&lines=Mastering+Modern+Web+Dev+💻;Solving+Real-World+Problems+🚀;Passionate+about+UI/UX+Design+✨;Consistent+%26+Curious+🎓" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=32&pause=1000&color=4169E1&center=true&vCenter=true&width=650&lines=Software+Engineer+in+the+Making+🚀;Solving+Complex+Real-World+Problems+💡;Passionate+about+Modern+UI/UX+✨;Consistent+%26+Curious+Mindset+🎓" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vivekpatel1234a&style=for-the-badge&color=blue&label=Profile+Visits" />
+  <img src="https://komarev.com/ghpvc/?username=Vivekpatel1234a&style=for-the-badge&color=blue&label=Digital+Footprint" />
 </p>
 
 ---
@@ -21,11 +21,11 @@
 
 <img align="right" src="https://github.com/Ashutosh049/Ashutosh049/blob/master/assets/code.gif?raw=true" width="220" />
 
-- 🚀 **2nd Year Computer Science Student** building scalable web solutions.
-- 🎓 **Engineering Undergraduate** focused on modern technologies.
-- 💡 **Problem Solver** with a deep interest in Data Structures.
-- 🎨 **UI/UX Enthusiast** creating beautiful user experiences.
-- ⚡ **Full-Stack Developer** mastering React, Node, and more.
+- 🚀 **Computer Science Undergrad** building scalable web solutions.
+- 🎓 **Passionate Learner** focused on modern technologies and architecture.
+- 💡 **Problem Solver** with a deep interest in Data Structures & Algorithms.
+- 🎨 **UI/UX Enthusiast** creating beautiful and intuitive user experiences.
+- ⚡ **Full-Stack Developer** mastering the MERN stack and beyond.
 
 ---
 
@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,react,nextjs,html,css,tailwind,nodejs,express,mongodb,git,github,vscode,netlify,postman,vercel&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,react,nextjs,html,css,tailwind,nodejs,express,mongodb,git,github,vscode,netlify,postman,vercel,figma&theme=dark" />
   </a>
 </p>
 
@@ -44,12 +44,13 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekpatel1234a&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api?username=Vivekpatel1234a&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&bg_color=000000" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekpatel1234a&theme=tokyonight&border_radius=10&background=000000" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vivekpatel1234a&theme=tokyonight&no-bg=true&column=7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekpatel1234a&theme=tokyonight&border_radius=10&background=000000" height="180px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vivekpatel1234a&theme=tokyonight&no-bg=true&column=4" height="180px" />
 </p>
 
 <p align="center">
