@@ -1,30 +1,33 @@
-<!-- Header: High-Class Animated Waving Design -->
+# <p align="center">✨ Welcome to My High-Profile Creative Space ✨</p>
+
+<!-- Header: Ultra-Stable Animated Design -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=300&section=header&text=Vivek%20Patel&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=300&section=header&text=Vivek%20Patel&fontSize=90&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Innovation%20Driven&descAlignY=51&descAlign=50" />
 </p>
 
-<!-- Dynamic Typing Effect: Premium Style -->
+<!-- High-Class Typing Animation -->
 <p align="center">
   <a href="https://github.com/Vivekpatel1234a">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Impactful+Solutions;Mastering+Modern+Web+Dev;Passionate+about+UI/UX;Consistent+%26+Curious" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=30&pause=1000&color=4169E1&center=true&vCenter=true&width=600&lines=Building+Rank2Campus+🎓;Mastering+Web+Development+💻;Civic+Tech+Inovator+🏙️;Consistent+%26+Curious+🚀" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vivekpatel1234a&style=for-the-badge&color=blue&label=Profile+Visits" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Vivekpatel1234a&style=flat-square&color=blue&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
 ### 💫 About Me
-> *“Consistency and curiosity drive my growth.”*
+> *"Consistency and curiosity drive my growth."*
 
-I am a **Computer Science student** passionate about building user-friendly and practical web applications. I focus on solving real-world problems through clean code and modern design.
+<img align="right" src="https://github.com/Ashutosh049/Ashutosh049/blob/master/assets/code.gif?raw=true" width="200" />
 
-- 🔭 Currently working on **[Rank2Campus](https://rank2campus.netlify.app/)**.
-- 🌱 Learning: **Advanced React.js** & **Data Structures**.
-- 💬 Ask me about: **React, C++, or JavaScript**.
-- ⚡ Goal: Build impactful real-world applications and crack top tech placements.
+- 🎓 **Computer Science Student** with a passion for building real-world solutions.
+- 🔭 Working on **[Rank2Campus](https://rank2campus.netlify.app/)** and **PragatiPulse**.
+- 🌱 Advanced studies in **React.js** and **Data Structures**.
+- 💬 Ask me about **React, C++, or UI/UX Design**.
+- 🎯 Goal: Crack top tech placements and build impactful applications.
 
 ---
 
@@ -32,7 +35,7 @@ I am a **Computer Science student** passionate about building user-friendly and 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,tailwind,nodejs,express,mongodb,git,github,vscode,netlify" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,tailwind,nodejs,express,mongodb,git,github,vscode,netlify&theme=dark" />
   </a>
 </p>
 
@@ -40,25 +43,25 @@ I am a **Computer Science student** passionate about building user-friendly and 
 
 ### 🚀 Projects
 
-#### 🎓 [Rank2Campus (College Counselling)](https://rank2campus.netlify.app/)
-An AI-powered platform helping students explore colleges and predict ranks with precision.
-- **Tech**: React 19, Vite, Gemini AI, Tailwind CSS.
-
-#### 🏙️ PragatiPulse (Civic Reporting)
-A web application for citizens to report infrastructure issues directly to authorities.
-- **Tech**: HTML5, CSS3, JavaScript.
-
-#### 🛒 Amazon UI Clone
-A high-fidelity, responsive clone of Amazon's shopping interface.
-- **Tech**: HTML, CSS, JavaScript.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🎓 Rank2Campus** | AI-powered college prediction platform. | React 19, Vite, Gemini AI |
+| **🏙️ PragatiPulse** | Civic issue reporting system for citizens. | HTML, CSS, JS |
+| **🛒 Amazon Clone** | High-fidelity responsive UI replica. | HTML, CSS, JS |
 
 ---
 
-### 📊 GitHub Dynamics
+### 📊 Performance Metrics
 
+#### 📈 Activity Graph (XY Dynamics)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivekpatel1234a&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekpatel1234a&theme=tokyonight&border_radius=10" alt="Streak" height="180px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivekpatel1234a&theme=react-dark&bg_color=000000&hide_border=true" width="100%" />
+</p>
+
+#### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivekpatel1234a&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&bg_color=000000" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekpatel1234a&theme=tokyonight&border_radius=10&background=000000" height="180px" />
 </p>
 
 <p align="center">
@@ -67,11 +70,11 @@ A high-fidelity, responsive clone of Amazon's shopping interface.
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 The Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vivekpatel1234a/Vivekpatel1234a/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Vivekpatel1234a/Vivekpatel1234a/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   <br>
-  <i>(Note: Animation appears after the first GitHub Action run)</i>
+  <sub>*(If the snake is missing, please trigger the "generate animation" action in the Actions tab)*</sub>
 </p>
 
 ---
@@ -91,5 +94,5 @@ A high-fidelity, responsive clone of Amazon's shopping interface.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=gradient&height=20&section=footer" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=20&section=footer" />
 </p>
