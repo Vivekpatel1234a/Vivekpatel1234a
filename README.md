@@ -1,10 +1,6 @@
-# Full Stack Developer Portfolio
+# Vivek Patel | Computer Science Student
 
-<!-- Header: Simplified and Reliable Wave Design -->
-![Header](https://capsule-render.vercel.app/render?type=wave&color=auto&height=250&section=header&text=Vivek%20Patel&fontSize=80&fontAlignY=40)
-
-<!-- Typing Animation -->
-![Typing](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Impactful+Web+Solutions;Mastering+React+and+C++;Passionate+about+Modern+UI/UX;Consistent+and+Curious)
+![Header](https://img.shields.io/badge/Vivek_Patel-Computer_Science_Student-blue?style=for-the-badge&logo=github)
 
 ---
 
@@ -13,15 +9,24 @@
 
 I am a Computer Science student passionate about building user-friendly and practical web applications. I focus on solving real-world problems through clean code and modern design.
 
-- Currently working on **[Rank2Campus](https://rank2campus.netlify.app/)**.
-- Learning: Advanced React.js and Data Structures.
-- Goal: Build impactful real-world applications and crack top tech placements.
+- 🔭 Currently working on **[Rank2Campus](https://rank2campus.netlify.app/)**.
+- 🌱 Learning: Advanced React.js and Data Structures.
+- 🎯 Goal: Build impactful real-world applications and crack top tech placements.
 
 ---
 
 ### Technical Arsenal
 
-![Skills](https://skillicons.dev/icons?i=cpp,js,react,html,css,tailwind,nodejs,express,mongodb,git,github,vscode,netlify&theme=dark)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -37,20 +42,9 @@ I am a Computer Science student passionate about building user-friendly and prac
 
 ### Performance Metrics
 
-#### Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vivekpatel1234a&theme=react-dark&bg_color=000000&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivekpatel1234a&show_icons=true&theme=tokyonight&count_private=true&border_radius=10)
 
-#### GitHub Insights
-![Stats](https://github-readme-stats.vercel.app/api?username=Vivekpatel1234a&show_icons=true&theme=tokyonight&count_private=true&border_radius=10)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vivekpatel1234a&theme=tokyonight&border_radius=10)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Vivekpatel1234a&theme=tokyonight&no-bg=true&column=7)
-
----
-
-### Contribution Snake
-![Snake](https://raw.githubusercontent.com/Vivekpatel1234a/Vivekpatel1234a/output/github-contribution-grid-snake.svg)
-*(Note: Animation appears after the first GitHub Action run)*
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vivekpatel1234a&theme=tokyonight&border_radius=10)
 
 ---
 
@@ -62,4 +56,4 @@ I am a Computer Science student passionate about building user-friendly and prac
 
 ---
 
-![Footer](https://capsule-render.vercel.app/render?type=rect&color=auto&height=20&section=footer)
+![Footer](https://img.shields.io/badge/Made_with_❤️_by_Vivek_Patel-blue?style=flat-square)
