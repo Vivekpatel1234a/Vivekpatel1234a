@@ -1,12 +1,12 @@
-<!-- Header: Premium Twinkling & Waving Design -->
+<!-- Header: Ultra-Stable High-End Wave Design -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=300&section=header&text=Vivek%20Patel&fontSize=90&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Innovation%20Driven&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=300&section=header&text=Vivek%20Patel&fontSize=90&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=51&descAlign=50" />
 </p>
 
-<!-- Ultra-Class Typing Animation -->
+<!-- Dynamic Bio: Focused on Completed Excellence -->
 <p align="center">
   <a href="https://github.com/Vivekpatel1234a">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=30&pause=1000&color=4169E1&center=true&vCenter=true&width=600&lines=Building+Rank2Campus+🎓;Mastering+Web+Development+💻;Civic+Tech+Innovator+🏙️;Consistent+%26+Curious+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=30&pause=1000&color=4169E1&center=true&vCenter=true&width=600&lines=Developed+Rank2Campus+🎓;Created+PragatiPulse+🏙️;Mastered+Modern+Web+Dev+💻;Consistent+%26+Curious+🚀" />
   </a>
 </p>
 
@@ -21,11 +21,11 @@
 
 <img align="right" src="https://github.com/Ashutosh049/Ashutosh049/blob/master/assets/code.gif?raw=true" width="220" />
 
-- 🎓 **Computer Science Student** with a passion for building real-world solutions.
-- 🔭 Working on **[Rank2Campus](https://rank2campus.netlify.app/)** and **PragatiPulse**.
-- 🌱 Advanced studies in **React.js** and **Data Structures**.
-- 💬 Ask me about **React, C++, or UI/UX Design**.
-- 🎯 Goal: Crack top tech placements and build impactful applications.
+- 🎓 **Computer Science Student** dedicated to engineering real-world solutions.
+- 🚀 Successfully **Developed [Rank2Campus](https://rank2campus.netlify.app/)** and **PragatiPulse**.
+- 🌱 Advanced proficiency in **React.js** and **Data Structures**.
+- 💬 Expertise: **React, C++, and Modern UI/UX Design**.
+- 🎯 Goal: Build impactful software and crack top tech placements.
 
 ---
 
@@ -52,10 +52,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekpatel1234a&theme=tokyonight&border_radius=10&background=000000" height="180px" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vivekpatel1234a&theme=tokyonight&no-bg=true&column=7" />
-</p>
-
 ---
 
 ### 🐍 The Contribution Snake
@@ -65,7 +61,7 @@
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
