@@ -21,8 +21,8 @@
 
 <img align="right" src="https://github.com/Ashutosh049/Ashutosh049/blob/master/assets/code.gif?raw=true" width="220" />
 
-- 🚀 **Computer Science Student** building scalable web solutions.
-- 🎓 **Engineering Graduate** focused on modern technologies.
+- 🚀 **2nd Year Computer Science Student** building scalable web solutions.
+- 🎓 **Engineering Undergraduate** focused on modern technologies.
 - 💡 **Problem Solver** with a deep interest in Data Structures.
 - 🎨 **UI/UX Enthusiast** creating beautiful user experiences.
 - ⚡ **Full-Stack Developer** mastering React, Node, and more.
