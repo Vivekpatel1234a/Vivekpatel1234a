@@ -1,25 +1,25 @@
 <!-- ============================================================ -->
-<!-- HEADER BANNER (high-contrast gradient so the wave is visible) -->
+<!-- HEADER BANNER (muted slate gradient — professional, not neon) -->
 <!-- ============================================================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Vivek%20Patel&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=19&descAlignY=58&descColor=E8ECFF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:475569&height=250&section=header&text=Vivek%20Patel&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=19&descAlignY=58&descColor=CBD5E1&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Vivekpatel1234a">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=25&duration=3000&pause=1200&color=6C63FF&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+Web+Applications;DSA+%2B+Problem+Solving+Enthusiast;Open+to+Internship+Opportunities" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=25&duration=3000&pause=1200&color=64748B&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+Web+Applications;DSA+%2B+Problem+Solving+Enthusiast;Open+to+Internship+Opportunities" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Internship-1F6F43?style=for-the-badge&logo=handshake&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=Vivekpatel1234a&style=for-the-badge&color=6C63FF&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Vivekpatel1234a&style=for-the-badge&color=475569&label=Profile+Views" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vivek1315/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:patelvpv369@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/Vivekpatel1234a/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/Vivek_404_X/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://github.com/Vivekpatel1234a"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -57,16 +57,16 @@ I'm a Computer Science undergrad focused on **Full Stack Web Development**, buil
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivekpatel1234a&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" height="185" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekpatel1234a&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivekpatel1234a&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=64748B&icon_color=64748B&text_color=C9D1D9" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekpatel1234a&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=64748B&text_color=C9D1D9" height="185" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vivekpatel1234a&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="185" />
+  <img src="https://streak-stats.demolab.com?user=Vivekpatel1234a&theme=tokyonight&hide_border=true&background=0D1117&ring=64748B&fire=64748B&currStreakLabel=64748B" height="185" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivekpatel1234a&theme=react-dark&bg_color=0D1117&hide_border=true&color=6C63FF&line=6C63FF" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivekpatel1234a&theme=react-dark&bg_color=0D1117&hide_border=true&color=64748B&line=64748B" width="100%" />
 </p>
 
 <br/>
@@ -74,7 +74,7 @@ I'm a Computer Science undergrad focused on **Full Stack Web Development**, buil
 <!-- ============================================================ -->
 <!-- CONTRIBUTION SNAKE                                            -->
 <!-- ============================================================ -->
-### 🐍 Contribution Graph
+### Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vivekpatel1234a/Vivekpatel1234a/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
@@ -124,14 +124,14 @@ High-fidelity, responsive UI replica of Amazon's core storefront experience.
 <br/>
 
 <!-- ============================================================ -->
-<!-- CODING PROFILES                                               -->
+<!-- CODING PROFILES (GitHub + LeetCode only — LinkedIn lives in   -->
+<!-- the Connect section below since it isn't a coding platform)   -->
 <!-- ============================================================ -->
 ### 🧑‍💻 Coding Profiles
 
 <p align="center">
   <a href="https://github.com/Vivekpatel1234a"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/Vivekpatel1234a/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/vivek1315/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Vivek_404_X/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 <br/>
@@ -154,8 +154,8 @@ High-fidelity, responsive UI replica of Amazon's core storefront experience.
 </p>
 
 <!-- ============================================================ -->
-<!-- FOOTER (matches header gradient so the wave reads clearly)    -->
+<!-- FOOTER (matches header gradient)                              -->
 <!-- ============================================================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:475569&height=100&section=footer" width="100%" />
 </p>
